@@ -7,4 +7,4 @@ The objective is to create a static web based Twitter home page clone using only
 
 Download the directory, make a clone or fork it. You have to make sure all the files are into the same folder. Click the *index.js* file and the page will be opened in your browser.
 
-![alt text]()
+![title](print.png)
